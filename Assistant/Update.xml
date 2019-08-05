@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Info>
+  <!--关联的文件-->
+  <Path exe="Assistant.exe" config="Assistant.EXE.config" updateurl="http://121.42.166.161:88/Update.ashx"></Path>
+  <!--版本号-->
+  <VersionInfo Version="2.3" VersionCheck="0"></VersionInfo>
+</Info>

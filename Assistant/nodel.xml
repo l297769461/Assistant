@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Info>
+  <!--更新基线，保留文件列表-->
+  <nodel files="/key.txt,/Update.exe,/Update.xml,/Update.vshost.exe,/Assistant.vshost.exe,/nodel.xml,/ThoughtWorks.QRCode.dll,/AxInterop.PHONIC_USBLib.dll,/Interop.PHONIC_USBLib.dll"
+         directorys="/lib,/Log"></nodel>
+</Info>
