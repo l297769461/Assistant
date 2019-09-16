@@ -39,6 +39,8 @@ namespace Help
         /// <returns>true:发送成功</returns>
         public string Send(string toEmailAdds, string subject, string body, string[] files)
         {
+            return "true";
+
             try
             {
                 //确定smtp服务器地址。实例化一个Smtp客户端
