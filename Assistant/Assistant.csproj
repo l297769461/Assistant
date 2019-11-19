@@ -143,6 +143,29 @@
     <Compile Include="Public\HttpHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="bin\Debug\lib\GetKey.exe" />
+    <Content Include="bin\Debug\lib\log\Cal.Extension.dll" />
+    <Content Include="bin\Debug\lib\log\Cal.Log.dll" />
+    <Content Include="bin\Debug\lib\log\Cal.Utility.dll" />
+    <Content Include="bin\Debug\lib\log\log4net.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx32\phonic_ubox.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx32\phonic_usb.ocx" />
+    <Content Include="bin\Debug\lib\ocx\ocx32\phonic_utool.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx32\phonic_utoolI.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx32\phonic_utoolII.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx32\ubox_test_dll.exe" />
+    <Content Include="bin\Debug\lib\ocx\ocx64\phonic_native.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx64\phonic_ubox.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx64\phonic_usb.ocx" />
+    <Content Include="bin\Debug\lib\ocx\ocx64\phonic_utooIIl.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx64\phonic_utool.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx64\phonic_utoolI.dll" />
+    <Content Include="bin\Debug\lib\ocx\ocx64\ubox_test_dll.exe" />
+    <Content Include="bin\Debug\lib\ocx\ocx注册.exe" />
+    <Content Include="bin\Debug\Resources\Images\loader.gif" />
+    <Content Include="bin\Debug\Resources\Images\tb0.ico" />
+    <Content Include="bin\Debug\Resources\Images\tb1.ico" />
+    <Content Include="bin\Debug\Resources\Images\wx.png" />
     <Content Include="lib\log\Cal.Extension.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -187,6 +210,13 @@
     <Content Include="lib\ocx\win7声卡一键修复精灵完美V3.0版.rar">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="bin\Debug\lib\log\Cal.Log4Net.config" />
+    <None Include="bin\Debug\lib\ocx\ocx32\setup.bat" />
+    <None Include="bin\Debug\lib\ocx\ocx32\ubox.ini" />
+    <None Include="bin\Debug\lib\ocx\ocx64\ubox.ini" />
+    <None Include="bin\Debug\lib\ocx\usb盒常见开发问题.doc" />
+    <None Include="bin\Debug\lib\ocx\win7声卡一键修复精灵完美V3.0版.rar" />
+    <None Include="bin\Debug\lib\来电助手.docx" />
     <None Include="lib\log\Cal.Log4Net.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
